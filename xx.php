@@ -20,11 +20,10 @@
     <div id="dvContainer">
         This content needs to be printed. Test print test print
         <img src="PCB/img/fmdq_logo.png">
-        <?php
-        echo "xx";
-        ?>
     </div>
     <input type="button" value="Print Div Contents" id="btnPrint" />
+        
+     <input type="hidden" value="Eugene Osafile" name="fullname"/>
     </form>
 </body>
 </html>
